@@ -27,11 +27,11 @@ x* inside the `REACT DEV TOOLS` expand `<BrowserRouter>` and highlight `<Router>
 
 ### Steps for "Declaring" your routes
 
-* Inside of your `App.js` file `import { Route } from 'react-router-dom';`
-* This is where we're going to declare and specify our router.
-* Create 3 `<Route />` setting their `path` prop equal to `/`, `/about`, `/contact` with their respective components.
-* Be sure to incluce the `exact` prop on the root component for `/` to make sure that it's rendering the exact component and not all the other components.
-* You should now be able to type `/`, `/about`, `/contact` after `localhost:PORT/` to see what's a
+*x Inside of your `App.js` file `import { Route } from 'react-router-dom';`
+*x This is where we're going to declare and specify our router.
+*x Create 3 `<Route />` setting their `path` prop equal to `/`, `/about`, `/contact` with their respective components.
+*x Be sure to incluce the `exact` prop on the root component for `/` to make sure that it's rendering the exact component and not all the other components.
+*x You should now be able to type `/`, `/about`, `/contact` after `localhost:PORT/` to see what's a
 
 ### Steps for setting up your Navigation
 
